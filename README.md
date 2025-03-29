@@ -1,10 +1,12 @@
 # Boring App
 
-A modern Android application showcasing best practices in Android development using Kotlin, Jetpack Compose, and a clean architecture approach.
+A modern Android application for boring purposes...
 
 ## Project Overview
 
-Boring App is a sample application that demonstrates how to build a modern Android app following recommended architecture patterns and using the latest libraries and tools. The app fetches user data from a remote API (DummyJSON) and displays it in a paginated list, with support for offline caching and detailed user views.
+Boring App is a sample application that demonstrates how to build a modern Android app following 
+recommended architecture patterns and using the latest libraries and tools. The app fetches user data from a 
+remote API (DummyJSON) and displays it in a paginated list, with support for offline caching and detailed user views.
 
 ## Project Structure
 
